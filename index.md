@@ -2,7 +2,7 @@
 
 ### Contact
 
-If support is necessary consurning any of my Apps please contact: 
+If support is necessary consurning any of my Apps please contact: ajm.app@hotmail.com
 
 Created Apps:
 Jumping Marshmallow
