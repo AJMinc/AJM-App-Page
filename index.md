@@ -1,4 +1,4 @@
-## AJM Apps
+# AJM Apps
 
 **AJM** is an individual app creator located in Sweden.
 
