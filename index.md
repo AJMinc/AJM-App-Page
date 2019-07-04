@@ -1,18 +1,20 @@
 ## AJM Apps
 
 AJM is an induvidual app creator located in Sweden.
+
 *AJM is an acronym of the first and last name of Alexander M. Jonsson.*
 
 
 ### Apps
 Apps created by AJM:
-Larry the Red Balloon
 
+Larry the Red Balloon
 
 *This list will be updated with more apps being released.*
 
 ### Privacy Policies
 Apps created by AJM uses in-app Interstitial Ad, provided by Google AdMob service.
+
 Click on this link to read more about my privacy policies:
 
 
