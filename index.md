@@ -14,10 +14,10 @@ Larry the Red Balloon
 *This list will be updated with more apps being released.*
 
 
-### Privacy Policies
-Apps created by AJM uses in-app Interstitial Ad, provided by Google AdMob service.
+### Privacy Policy
+Apps created by AJM uses in-app Interstitial Ads, provided by Google AdMob service.
 
-Click on this link to read more about my privacy policies:
+Click on this link to read more about my privacy policy:
 
 
 
