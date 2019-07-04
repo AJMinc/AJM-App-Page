@@ -23,8 +23,8 @@ Click on the link to read more about my privacy policy: <a href="https://ajminc.
 
 ### Contact
 
-For buisness related questions consurning any of my Apps, please contact: ajm.inc@hotmail.com
+For buisness related questions consurning any of my Apps, please contact: **ajm.inc@hotmail.com**
 
-For support/privacy questions consurning any of my Apps, please contact: ajm.app@hotmail.com
+For support/privacy questions consurning any of my Apps, please contact: **ajm.app@hotmail.com**
 
 
