@@ -17,7 +17,7 @@ Apps created by AJM:
 ### Privacy Policy
 Apps created by AJM uses in-app Interstitial Ads, provided by Google AdMob service.
 
-Click on this link to read more about my privacy policy: https://ajminc.github.io/privacy-policy/
+Click on this link to read more about my privacy policy: https://ajminc.github.io/Privacy-Policy-Page/
 
 
 
