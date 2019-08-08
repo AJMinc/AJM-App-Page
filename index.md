@@ -9,9 +9,9 @@
 ### Apps
 Apps created by AJM:
 
-**Larry the Red Balloon**
-
 **Bouncing Banana**
+
+**Larry the Red Balloon**
 
 *This list will be updated with more apps being released.*
 
