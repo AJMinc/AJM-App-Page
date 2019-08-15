@@ -1,8 +1,6 @@
 # AJM Apps
 
-**AJM** is an individual app creator located in Sweden.
-
-*AJM is an acronym of the first and last name of Alexander M. J.*
+**AJM** is an individual app creator.
 
 
 
