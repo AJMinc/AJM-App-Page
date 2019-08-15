@@ -1,7 +1,5 @@
 # AJM Apps
 
-**AJM** is an individual app creator.
-
 
 
 ### Apps
