@@ -5,6 +5,8 @@
 ### Apps
 Apps created by AJM:
 
+**Jumping Marshmallow**
+
 **Bouncing Banana**
 
 **Larry the Red Balloon**
